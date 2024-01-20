@@ -19,7 +19,7 @@ I have not yet created a build for this (if its even possible or necessary), so 
 ### Controls
 
 - Move Player Right: D
-- Move Plaeyer Left: A
+- Move Player Left: A
 - Shoot: W
 - Quit Game: Q (Can also be done by clicking on the X on the top left of the Game Window)
 
